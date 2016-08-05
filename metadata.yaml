@@ -1,0 +1,62 @@
+_repo: A-Sicilian-Romance_7371
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Radcliffe, Ann Ward
+    alias: Radcliffe, Mrs.
+    birthdate: 1764
+    deathdate: 1823
+    gutenberg_agent_id: '1147'
+    url: http://www.gutenberg.org/2009/agents/1147
+    wikipedia: http://en.wikipedia.org/wiki/Ann_Radcliffe
+description: "A Sicilian Romance is a gothic novel by Ann Radcliffe. It was her second\
+  \ published work, and was first published anonymously in 1790.\nThe plot concerns\
+  \ the fallen nobility of the house of Mazzini, on the northern shore of Sicily,\
+  \ as related by a tourist who learns of their turbulent history from a monk he meets\
+  \ at the ruins of their once-magnificent castle. The Mazzini sisters, Emilia and\
+  \ Julia are 'beautiful' young ladies with many talents. Julia quickly falls in love\
+  \ with the young and handsome Italian count Hippolitus de Vereza, but to her dismay\
+  \ her father decides that she should marry Duke de Luovo instead. After much thought\
+  \ Julia attempts to elope with Hippolitus on the night before her wedding. However,\
+  \ their escape had been anticipated, and the Marquis, Julia's father, ambushes and\
+  \ seemingly kills Hippolitus whose body is carried away by his servants. The Marquis\
+  \ tells Julia that she must marry the duke and after much difficulty she escapes\
+  \ again alone. The Marquis and the Duke spend much of the novel trying to catch\
+  \ Julia and force her to marry the duke. Julia has to flee from her various hiding\
+  \ places as she narrowly avoids capture and eventually ends up, by a secret tunnel,\
+  \ in the abandoned and seemingly haunted southern apartments of the Mazzini castle\
+  \ only to find that her mother, thought to be dead, had been imprisoned there for\
+  \ years by the Marquis, who had grown to despise her. The Marquis's new wife, Maria\
+  \ de Vellorno, commits murder-suicide after the Marquis discovers and accuses her\
+  \ of infidelity, poisoning the Marquis and stabbing herself. Before he dies the\
+  \ Marquis confesses to Ferdinand, his son, that his mother has been imprisoned,\
+  \ and hands him the keys. However, his mother and Julia had already been freed by\
+  \ Hippolitus, who had recovered from his wounds. Ferdinand then finds them at a\
+  \ lighthouse on the coast, waiting to leave for Italy, and they are all joyfully\
+  \ reunited. The introduction to the Oxford World's Classics edition notes that in\
+  \ this novel \"Ann Radcliffe began to forge the unique mixture of the psychology\
+  \ of terror and poetic description that would make her the great exemplar of the\
+  \ Gothic novel, and the idol of the Romantics\". The novel explores the \"cavernous\
+  \ landscapes and labyrinthine passages of Sicily's castles and convents to reveal\
+  \ the shameful secrets of its all-powerful aristocracy\" [1].\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7371'
+  wikidata: Q979649
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sicily (Italy) -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- GITenberg
+title: A Sicilian Romance
+url: http://www.gutenberg.org/ebooks/7371
+wikipedia:
+- https://fr.wikipedia.org/wiki/A_Sicilian_Romance
+- https://en.wikipedia.org/wiki/A_Sicilian_Romance
+- https://it.wikipedia.org/wiki/Romanzo_siciliano_(romanzo)
