@@ -1,5 +1,8 @@
 _repo: A-Sicilian-Romance_7371
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Radcliffe, Ann Ward
@@ -40,6 +43,8 @@ description: "A Sicilian Romance is a gothic novel by Ann Radcliffe. It was her 
   \ landscapes and labyrinthine passages of Sicily's castles and convents to reveal\
   \ the shameful secrets of its all-powerful aristocracy\" [1].\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7371#A-Sicilian-Romance
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
